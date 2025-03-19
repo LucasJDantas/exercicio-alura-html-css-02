@@ -15,6 +15,12 @@ Para visualizar a página funcionando:
 
 <hr>
 
+## 🔨 Funcionalidades do projeto
+
+A página mostrará um banner com a chamada para a assinatura do Combo+ e do Alura+, seções com informações dos planos, disponibilidade em diversos dispositivos e um rodapé com demais links relacionados à plataforma.
+
+<hr>
+
 ## 🚀 Tecnologias
 
 Desenvolvimento e estruturação do código HTML alinhados às boas práticas para estilização no CSS.
