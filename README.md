@@ -1,30 +1,23 @@
-Alura - HTML e CSS
-
-Exercício 2 - Alura Plus
-
-Arquivos fornecidos pela Alura
-
-Desenvolvimento de página web apresentando o Alura Plus, combo de assinatura da plataforma da escola, utilizando HTML e CSS.
-
-Para acessar a página: https://exercicio-alura-html-css-02.vercel.app/
-
 # Alura Plus
 
-![Montagens com o website do Mucha Museum em uso](https://github.com/user-attachments/assets/48e93428-b04a-4771-af15-e9d806aeb677)
+![Screenshot da landing page do Alura Plus](https://github.com/user-attachments/assets/9e3c862f-08dc-4a97-b339-74b6f8ed2dd9)
+
 
 ## ✨ O exercício
 
-Desenvolvimento de página web apresentando o Alura Plus, combo de assinatura da plataforma da escola, utilizando HTML e CSS.
+Exercício do curso <b>HTML e CSS</b> na <b>Alura</b>.
 
-- Para visualizar a página funcionando: 
+Desenvolvimento de landing page apresentando o Alura Plus, o combo de assinatura das plataformas da escola, utilizando HTML e CSS.
 
-    <a href="https://exercicio-alura-html-css-02.vercel.app/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github%20Pages&logoColor=white" target="_blank"></a>
+Para visualizar a página funcionando: 
+
+<a href="https://exercicio-alura-html-css-02.vercel.app/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"></a>
 
 <hr>
 
 ## 🚀 Tecnologias
 
-Para a página:
+Desenvolvimento e estruturação do código HTML alinhados às boas práticas para estilização no CSS.
 
 <img loading="laz" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
