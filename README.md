@@ -23,7 +23,7 @@ A página mostrará um banner com a chamada para a assinatura do Combo+ e do Alu
 
 ## 🚀 Tecnologias
 
-Desenvolvimento e estruturação do código HTML alinhados às boas práticas para estilização no CSS.
+Desenvolvimento e estruturação do código `HTML` alinhados às boas práticas para estilização no `CSS`.
 
 <img loading="laz" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
